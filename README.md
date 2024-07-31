@@ -1,4 +1,4 @@
-Progetto "Elementi di ingegneria del software" - 2º anno Ingegneria informatica
+Software engineering project - Bachelor Computer Engineering
 --------------
 Supponete di essere in ambiente Java Micro Edition, precisamente CLDC1.1
 (https://docs.oracle.com/javame/config/cldc/ref-impl/cldc1.1/jsr139/index.html)
