@@ -1,5 +1,4 @@
-Progetto per l'esame di "Elementi di ingegneria del software". <br>
-Secondo anno del corso di laurea in "Ingegneria informatica".
+Progetto "Elementi di ingegneria del software" - 2º anno Ingegneria informatica
 --------------
 Supponete di essere in ambiente Java Micro Edition, precisamente CLDC1.1
 (https://docs.oracle.com/javame/config/cldc/ref-impl/cldc1.1/jsr139/index.html)
