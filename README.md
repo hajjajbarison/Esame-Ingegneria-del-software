@@ -1,4 +1,4 @@
-Progetto "ELementi di ingegneria del software" - Ingegneria informatica (triennale)
+Progetto "Elementi di ingegneria del software" - Ingegneria informatica (triennale)
 --------------
 Supponete di essere in ambiente Java Micro Edition, precisamente CLDC1.1
 (https://docs.oracle.com/javame/config/cldc/ref-impl/cldc1.1/jsr139/index.html)
